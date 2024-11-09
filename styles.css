@@ -1,0 +1,14 @@
+/* Ajusta el estilo para tu animación */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    background-color: #0d0d0d; /* Fondo oscuro para resaltar partículas */
+}
+
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
