@@ -1,15 +1,15 @@
 <p align="center">
-    <strong>**Desarrollo de software y sistemas inteligentes**</strong>
+    <strong>Desarrollo de software y sistemas inteligentes</strong>
 </p>
 <hr style="width: 80%; margin: auto; border: 0; border-top: 0.5px solid rgba(128, 128, 128, 0.5); transform: rotate(-0.5deg);">
 <div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: auto;">
-    <p>🚀 **Desarrollo de software y sistemas inteligentes**</p>
+    <p>🚀 <strong>Desarrollo de software y sistemas inteligentes</strong></p>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=EFRAN033.EFRAN033&left_color=cadetblue&right_color=black&left_text=Profile Views" alt="Profile Views" />
 </div>
 
 ###
 
-<p align="left">🚀 **Desarrollo de software y sistemas inteligentes**<br><br>✨ **Acerca de mí**<br><br>👨‍💻 Soy un profesional apasionado por la  Inteligencia Artificial  y los Sistemas Inteligentes, con una sólida experiencia en el diseño y desarrollo de soluciones tecnológicas avanzadas. Me especializo en el uso de herramientas innovadoras para abordar desafíos complejos y generar impacto positivo.<br><br>🎯 **Mi filosofía profesional**:<br>Estoy comprometido con la innovación constante y la excelencia en cada proyecto, combinando conocimientos técnicos con creatividad para ofrecer soluciones que marquen la diferencia.<br><br>💡 **Intereses clave**:<br></> Aprender y explorar las últimas tendencias en inteligencia artificial y tecnologías emergentes.<br></> Colaborar en proyectos multidisciplinarios para fomentar el desarrollo tecnológico.<br><br>🌟 **Conéctate conmigo**:<br>📂 Descubre más sobre mis proyectos y contribuciones en mi GitHub o visita mi página en <a href="https://huggingface.co/efran" target="_blank">Hugging Face</a> para explorar mis modelos y soluciones en inteligencia artificial.</p>
+<p align="left">🚀 <strong>Desarrollo de software y sistemas inteligentes</strong><br><br>✨ <strong>Acerca de mí</strong><br><br>👨‍💻 Soy un profesional apasionado por la  Inteligencia Artificial  y los Sistemas Inteligentes, con una sólida experiencia en el diseño y desarrollo de soluciones tecnológicas avanzadas. Me especializo en el uso de herramientas innovadoras para abordar desafíos complejos y generar impacto positivo.<br><br>🎯 <strong>Mi filosofía profesional</strong>:<br>Estoy comprometido con la innovación constante y la excelencia en cada proyecto, combinando conocimientos técnicos con creatividad para ofrecer soluciones que marquen la diferencia.<br><br>💡 <strong>Intereses clave</strong>:<br></> Aprender y explorar las últimas tendencias en inteligencia artificial y tecnologías emergentes.<br></> Colaborar en proyectos multidisciplinarios para fomentar el desarrollo tecnológico.<br><br>🌟 <strong>Conéctate conmigo</strong>:<br>📂 Descubre más sobre mis proyectos y contribuciones en mi GitHub o visita mi página en <a href="https://huggingface.co/efran" target="_blank">Hugging Face</a> para explorar mis modelos y soluciones en inteligencia artificial.</p>
 
 ###
 
@@ -32,13 +32,13 @@
 ###
 
 <p align="center">
-    <strong>**💻 Lenguajes y Habilidades**</strong>
+    <strong>💻 Lenguajes y Habilidades</strong>
 </p>
 <hr style="width: 80%; margin: auto; border: 0; border-top: 0.5px solid rgba(128, 128, 128, 0.5); transform: rotate(-0.5deg);">
 
 ###
 
-<p align="left">**Lenguajes**</p>
+<p align="left"><strong>Lenguajes</strong></p>
 
 ###
 
@@ -82,7 +82,7 @@
 
 ###
 
-<p align="left">**Software y Herramientas**</p>
+<p align="left"><strong>Software y Herramientas</strong></p>
 
 ###
 
@@ -127,7 +127,7 @@
 ###
 
 <p align="center">
-    <strong>**⚙️ Análisis de GitHub**</strong>
+    <strong>⚙️ Análisis de GitHub</strong>
 </p>
 <hr style="width: 80%; margin: auto; border: 0; border-top: 0.5px solid rgba(128, 128, 128, 0.5); transform: rotate(-0.5deg);">
 
