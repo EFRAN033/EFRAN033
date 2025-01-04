@@ -7,7 +7,7 @@
 </p>
 <hr style="width: 80%; margin: auto; border: 0; border-top: 0.5px solid rgba(128, 128, 128, 0.5); transform: rotate(-0.5deg);">
 <div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: auto;">
-    <p>🚀 <strong>Desarrollo de software y sistemas inteligentes</strong></p>
+    
 </div>
 
 ###
