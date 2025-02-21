@@ -5,20 +5,13 @@
          style="width: 100%; height: auto;">
 </p>
 
-<p align="center">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: auto;">
+    <strong>Desarrollo de software y sistemas inteligentes</strong>
     <!-- Contador de vistas pequeño -->
     <img src="https://komarev.com/ghpvc/?username=EFRAN033&style=flat-square" alt="Contador de visitas" />
-</p>
-
-<p align="center">
-    <strong>Desarrollo de software y sistemas inteligentes</strong>
-</p>
-<hr style="width: 80%; margin: auto; border: 0; border-top: 0.5px solid rgba(128, 128, 128, 0.5); transform: rotate(-0.5deg);">
-<div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: auto;">
-    
 </div>
 
-###
+<hr style="width: 80%; margin: auto; border: 0; border-top: 0.5px solid rgba(128, 128, 128, 0.5); transform: rotate(-0.5deg);">
 
 <p align="left">🚀 <strong>Desarrollo de software y sistemas inteligentes</strong><br><br>
 ✨ <strong>Acerca de mí</strong><br><br>
