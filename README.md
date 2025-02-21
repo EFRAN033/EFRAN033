@@ -6,6 +6,11 @@
 </p>
 
 <p align="center">
+    <!-- Contador de vistas pequeño -->
+    <img src="https://komarev.com/ghpvc/?username=EFRAN033&style=flat-square" alt="Contador de visitas" />
+</p>
+
+<p align="center">
     <strong>Desarrollo de software y sistemas inteligentes</strong>
 </p>
 <hr style="width: 80%; margin: auto; border: 0; border-top: 0.5px solid rgba(128, 128, 128, 0.5); transform: rotate(-0.5deg);">
