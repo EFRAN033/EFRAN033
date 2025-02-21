@@ -1,22 +1,3 @@
-<!-- Bloque de estilos para la animación -->
-<style>
-  @keyframes fadeInText {
-    from {
-      opacity: 0;
-      transform: scale(0.8);
-    }
-    to {
-      opacity: 1;
-      transform: scale(1);
-    }
-  }
-  .animated-text {
-    font-size: 2.5em; /* Ajusta el tamaño según lo necesites */
-    font-weight: bold;
-    animation: fadeInText 2s ease-in-out;
-  }
-</style>
-
 <p align="center">
     <!-- Reemplazado con la nueva imagen -->
     <img src="https://media.licdn.com/dms/image/v2/D5616AQEpn1Wm0HBuSA/profile-displaybackgroundimage-shrink_350_1400/B56ZUp58oeGsAY-/0/1740164814331?e=1745452800&v=beta&t=WVwXAqe2LUFATj44rWyfNf8Pixf6Qqdy5I7om2iSfGw" 
@@ -25,7 +6,7 @@
 </p>
 
 <p align="center">
-    <span class="animated-text">Desarrollo de software y sistemas inteligentes</span>
+    <strong>Desarrollo de software y sistemas inteligentes</strong>
 </p>
 <hr style="width: 80%; margin: auto; border: 0; border-top: 0.5px solid rgba(128, 128, 128, 0.5); transform: rotate(-0.5deg);">
 <div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: auto;">
@@ -34,18 +15,17 @@
 
 ###
 
-<p align="left">
-  🚀 <strong>Desarrollo de software y sistemas inteligentes</strong><br><br>
-  ✨ <strong>Acerca de mí</strong><br><br>
-  👨‍💻 Soy un profesional apasionado por la Inteligencia Artificial y los Sistemas Inteligentes, con una sólida experiencia en el diseño y desarrollo de soluciones tecnológicas avanzadas. Me especializo en el uso de herramientas innovadoras para abordar desafíos complejos y generar impacto positivo.<br><br>
-  🎯 <strong>Mi filosofía profesional</strong>:<br>
-  Estoy comprometido con la innovación constante y la excelencia en cada proyecto, combinando conocimientos técnicos con creatividad para ofrecer soluciones que marquen la diferencia.<br><br>
-  💡 <strong>Intereses clave</strong>:<br>
-  </> Aprender y explorar las últimas tendencias en inteligencia artificial y tecnologías emergentes.<br>
-  </> Colaborar en proyectos multidisciplinarios para fomentar el desarrollo tecnológico.<br><br>
-  🌟 <strong>Conéctate conmigo</strong>:<br>
-  📂 Descubre más sobre mis proyectos y contribuciones en mi GitHub o visita mi página en 
-  <a href="https://huggingface.co/efran" target="_blank">Hugging Face</a> para explorar mis modelos y soluciones en inteligencia artificial.
+<p align="left">🚀 <strong>Desarrollo de software y sistemas inteligentes</strong><br><br>
+✨ <strong>Acerca de mí</strong><br><br>
+👨‍💻 Soy un profesional apasionado por la Inteligencia Artificial y los Sistemas Inteligentes, con una sólida experiencia en el diseño y desarrollo de soluciones tecnológicas avanzadas. Me especializo en el uso de herramientas innovadoras para abordar desafíos complejos y generar impacto positivo.<br><br>
+🎯 <strong>Mi filosofía profesional</strong>:<br>
+Estoy comprometido con la innovación constante y la excelencia en cada proyecto, combinando conocimientos técnicos con creatividad para ofrecer soluciones que marquen la diferencia.<br><br>
+💡 <strong>Intereses clave</strong>:<br>
+</> Aprender y explorar las últimas tendencias en inteligencia artificial y tecnologías emergentes.<br>
+</> Colaborar en proyectos multidisciplinarios para fomentar el desarrollo tecnológico.<br><br>
+🌟 <strong>Conéctate conmigo</strong>:<br>
+📂 Descubre más sobre mis proyectos y contribuciones en mi GitHub o visita mi página en 
+<a href="https://huggingface.co/efran" target="_blank">Hugging Face</a> para explorar mis modelos y soluciones en inteligencia artificial.
 </p>
 
 ###
