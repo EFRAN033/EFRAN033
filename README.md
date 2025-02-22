@@ -1,17 +1,14 @@
-<div align="center" style="margin: 0 !important; padding: 0 !important; line-height: 0 !important;">
+<p align="center" style="margin: 0; padding: 0;">
   <!-- Imagen de LinkedIn (banner) -->
   <img src="https://media.licdn.com/dms/image/v2/D5616AQEpn1Wm0HBuSA/profile-displaybackgroundimage-shrink_350_1400/B56ZUp58oeGsAY-/0/1740164814331?e=1745452800&v=beta&t=WVwXAqe2LUFATj44rWyfNf8Pixf6Qqdy5I7om2iSfGw" 
-       alt="Banner" 
-       style="width: 100%; height: auto; display: block; margin: 0 !important; padding: 0 !important; line-height: 0 !important;">
-</div>
+       alt="LinkedIn Banner" 
+       style="width: 100%; height: auto;">
+</p>
 
-<div align="center" style="margin: 0 !important; padding: 0 !important; line-height: 0 !important;">
-  <!-- Imagen animada con el efecto de escritura -->
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Anton&color=ffffff&size=27&center=true&vCenter=true&width=600&height=100&lines=Desarrollo+de+software+y+sistemas+inteligentes" 
-       alt="Desarrollo de software y sistemas inteligentes"
-       style="display: block; margin: 0 !important; padding: 0 !important; line-height: 0 !important;">
-</div>
-
+       alt="Desarrollo de software y sistemas inteligentes">
+</h1>
 
 ---
 
@@ -21,6 +18,23 @@
 📚 Especializado en crear soluciones tecnológicas innovadoras  
 🎯 Filosofía: Innovación constante y excelencia técnica  
 🌱 Actualmente explorando: LLMs y Computer Vision  
+
+### 🌐 Conectemos
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/efran-quispe-castilla-53b579240/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://huggingface.co/efran" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
+  <a href="mailto:efran.quispe13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://stackoverflow.com/users/19585217/jeferson-efran" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+</div>
 
 ---
 
@@ -56,24 +70,6 @@
 
   <a href="https://github.com/EFRAN033">
     <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=EFRAN033&theme=dark&hide_border=true" alt="Streak Stats"/>
-  </a>
-</div>
-
-
-### 🌐 Conectemos
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/efran-quispe-castilla-53b579240/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://huggingface.co/efran" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  </a>
-  <a href="mailto:efran.quispe13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://stackoverflow.com/users/19585217/jeferson-efran" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 </div>
 
