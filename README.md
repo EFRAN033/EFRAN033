@@ -1,5 +1,4 @@
 <p align="center" style="margin: 0; padding: 0;">
-  <!-- Imagen de LinkedIn (banner) -->
   <img src="https://media.licdn.com/dms/image/v2/D5616AQEpn1Wm0HBuSA/profile-displaybackgroundimage-shrink_350_1400/B56ZUp58oeGsAY-/0/1740164814331?e=1745452800&v=beta&t=WVwXAqe2LUFATj44rWyfNf8Pixf6Qqdy5I7om2iSfGw" 
        alt="LinkedIn Banner" 
        style="width: 100%; height: auto;">
@@ -26,13 +25,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://huggingface.co/efran" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   </a>
   <a href="mailto:efran.quispe13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://stackoverflow.com/users/19585217/jeferson-efran" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 </div>
 
@@ -72,11 +71,3 @@
     <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=EFRAN033&theme=dark&hide_border=true" alt="Streak Stats"/>
   </a>
 </div>
-
----
-
-### 📌 Proyectos Destacados
-
-• [Nombre del Proyecto 1](enlace) - Breve descripción  
-• [Nombre del Proyecto 2](enlace) - Breve descripción  
-• [Nombre del Proyecto 3](enlace) - Breve descripción  
