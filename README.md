@@ -1,14 +1,17 @@
-<p align="center" style="margin: 0; padding: 0;">
+<div align="center" style="margin: 0; padding: 0;">
   <!-- Imagen de LinkedIn (banner) -->
   <img src="https://media.licdn.com/dms/image/v2/D5616AQEpn1Wm0HBuSA/profile-displaybackgroundimage-shrink_350_1400/B56ZUp58oeGsAY-/0/1740164814331?e=1745452800&v=beta&t=WVwXAqe2LUFATj44rWyfNf8Pixf6Qqdy5I7om2iSfGw" 
        alt="Banner" 
-       style="width: 100%; height: auto;">
-</p>
+       style="width: 100%; height: auto; display: block; margin: 0; padding: 0;">
+</div>
 
-<p align="center" style="margin: 0; padding: 0;">
+<div align="center" style="margin: 0; padding: 0;">
   <!-- Imagen animada con el efecto de escritura -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&color=ffffff&size=27&center=true&vCenter=true&width=600&height=100&lines=Desarrollo+de+software+y+sistemas+inteligentes" alt="Desarrollo de software y sistemas inteligentes">
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&color=ffffff&size=27&center=true&vCenter=true&width=600&height=100&lines=Desarrollo+de+software+y+sistemas+inteligentes" 
+       alt="Desarrollo de software y sistemas inteligentes"
+       style="display: block; margin: 0; padding: 0;">
+</div>
+
 
 ---
 
