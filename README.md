@@ -6,14 +6,27 @@
 </p>
 
 <p align="center">
-    <strong>Desarrollo de software y sistemas inteligentes</strong>
+    <strong style="animation: pulse 2s infinite; display: inline-block;">
+        <span style="color: white;">Desarrollo de software y sistemas inteligentes</span>
+    </strong>
 </p>
+
+<style>
+    @keyframes pulse {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+        100% { transform: scale(1); }
+    }
+</style>
+
 <hr style="width: 80%; margin: auto; border: 0; border-top: 0.5px solid rgba(128, 128, 128, 0.5); transform: rotate(-0.5deg);">
 <div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: auto;">
     
 </div>
 
 ###
+
+<!-- Resto del código se mantiene igual desde aquí... -->
 
 <p align="left">🚀 <strong>Desarrollo de software y sistemas inteligentes</strong><br><br>
 ✨ <strong>Acerca de mí</strong><br><br>
