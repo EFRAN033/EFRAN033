@@ -1,15 +1,17 @@
-<p align="center">
+<p align="center" style="margin: 0; padding: 0;">
   <!-- Imagen de LinkedIn (banner) -->
   <img src="https://media.licdn.com/dms/image/v2/D5616AQEpn1Wm0HBuSA/profile-displaybackgroundimage-shrink_350_1400/B56ZUp58oeGsAY-/0/1740164814331?e=1745452800&v=beta&t=WVwXAqe2LUFATj44rWyfNf8Pixf6Qqdy5I7om2iSfGw" 
        alt="Banner" 
        style="width: 100%; height: auto;">
 </p>
 
-<p align="center">
+<p align="center" style="margin: 0; padding: 0;">
   <!-- Imagen animada con el efecto de escritura -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Desarrollo+de+software+y+sistemas+inteligentes" alt="Desarrollo de software y sistemas inteligentes">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anton&color=ffffff&size=27&center=true&vCenter=true&width=600&height=100&lines=Desarrollo+de+software+y+sistemas+inteligentes" alt="Desarrollo de software y sistemas inteligentes">
 </p>
 
+
+    
 <hr style="width: 80%; margin: auto; border: 0; border-top: 0.5px solid rgba(128, 128, 128, 0.5); transform: rotate(-0.5deg);">
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: auto;">
