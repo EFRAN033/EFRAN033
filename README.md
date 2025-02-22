@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <strong><span id="typing" class="blink-caret"></span></strong>
+    <strong>Desarrollo de software y sistemas inteligentes</strong>
 </p>
 <hr style="width: 80%; margin: auto; border: 0; border-top: 0.5px solid rgba(128, 128, 128, 0.5); transform: rotate(-0.5deg);">
 <div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: auto;">
@@ -154,42 +154,3 @@ Estoy comprometido con la innovación constante y la excelencia en cada proyecto
     <img src="https://github-readme-stats.vercel.app/api?username=EFRAN033&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EFRAN033&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-<!-- Estilos para la animación de escritura -->
-<style>
-  #typing {
-    white-space: nowrap;
-    overflow: hidden;
-  }
-  .blink-caret {
-    border-right: 2px solid;
-    animation: blink 0.7s infinite;
-  }
-  @keyframes blink {
-    0% { border-color: transparent; }
-    50% { border-color: black; }
-    100% { border-color: transparent; }
-  }
-</style>
-
-<!-- Script para la animación de escritura -->
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    var text = "Desarrollo de software y sistemas inteligentes";
-    var index = 0;
-    var speed = 100; // Velocidad en milisegundos
-    var typingElement = document.getElementById("typing");
-    
-    function typeWriter() {
-      if (index < text.length) {
-        typingElement.innerHTML += text.charAt(index);
-        index++;
-        setTimeout(typeWriter, speed);
-      }
-    }
-    
-    // Inicia la animación
-    typingElement.innerHTML = "";
-    typeWriter();
-  });
-</script>
