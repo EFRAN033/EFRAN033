@@ -43,12 +43,33 @@
 
 ---
 
+---
+
 ### 📈 Estadísticas GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EFRAN033&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFRAN033&layout=compact&langs_count=8&theme=dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=EFRAN033&theme=dark"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+
+<!-- Stats Card -->
+<a href="https://github.com/EFRAN033">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EFRAN033&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues&line_height=24"/>
+</a>
+
+<!-- Languages Card -->
+<a href="https://github.com/EFRAN033">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFRAN033&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
+</a>
+
+<!-- Streak Stats -->
+<a href="https://github.com/EFRAN033">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=EFRAN033&theme=dark&hide_border=true"/>
+</a>
+
+</div>
+
+<div align="center" style="margin-top: 1rem;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EFRAN033&theme=dark" 
+       alt="Activity Graph" 
+       style="max-width: 100%; height: auto;">
 </div>
 
 ---
