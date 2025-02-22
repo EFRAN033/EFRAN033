@@ -41,23 +41,20 @@
 
 ### 📈 Estadísticas GitHub
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 0.5rem; justify-content: center; align-items: center;">
+  <a href="https://github.com/EFRAN033">
+    <img height="100" src="https://github-readme-stats.vercel.app/api?username=EFRAN033&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues&line_height=24" alt="GitHub Stats"/>
+  </a>
 
-<a href="https://github.com/EFRAN033">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EFRAN033&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues&line_height=24"/>
-</a>
+  <a href="https://github.com/EFRAN033">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFRAN033&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Langs"/>
+  </a>
 
-<a href="https://github.com/EFRAN033">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFRAN033&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/EFRAN033">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=EFRAN033&theme=dark&hide_border=true"/>
-</a>
-
+  <a href="https://github.com/EFRAN033">
+    <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=EFRAN033&theme=dark&hide_border=true" alt="Streak Stats"/>
+  </a>
 </div>
 
----
 
 ### 🌐 Conectemos
 
