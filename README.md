@@ -1,7 +1,9 @@
+
+Copy
 <p align="center" style="margin: 0; padding: 0;">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQEpn1Wm0HBuSA/profile-displaybackgroundimage-shrink_350_1400/B56ZUp58oeGsAY-/0/1740164814331?e=1745452800&v=beta&t=WVwXAqe2LUFATj44rWyfNf8Pixf6Qqdy5I7om2iSfGw" 
        alt="LinkedIn Banner" 
-       style="width: 100%; height: auto;">
+       style="width: 100%; height: auto; border-radius: 20px;">
 </p>
 
 <h1 align="center">
