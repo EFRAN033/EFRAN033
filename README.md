@@ -11,14 +11,16 @@
 
 ### 👨‍💻 Sobre mí
 
-🚀 Desarrollador apasionado por la Inteligencia Artificial y Sistemas Inteligentes  
-📚 Especializado en crear soluciones tecnológicas innovadoras  
-🎯 Filosofía: Innovación constante y excelencia técnica  
-🌱 Actualmente explorando: LLMs y Computer Vision  
+🚀 Desarrollador apasionado por la Inteligencia Artificial y Sistemas Inteligentes.  
+📚 Especializado en crear soluciones tecnológicas innovadoras y escalables.  
+🎯 Mi filosofía: Innovación constante, excelencia técnica y código limpio.  
+🌱 Actualmente explorando: LLMs, Computación Cuántica y Arquitecturas Multi-agente.  
+
+---
 
 ### 🌐 Conectemos
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/efran-quispe-castilla-53b579240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -31,7 +33,9 @@
   <a href="https://stackoverflow.com/users/19585217/jeferson-efran" target="_blank">
     <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
-</div>
+</p>
+
+---
 
 ### 💻 Mi Stack Tecnológico
 
@@ -39,7 +43,7 @@
   <summary><strong>👨‍💻 Lenguajes de Programación</strong></summary>
   <br>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,cs,go,dart,js,php,html,css" alt="Lenguajes de programación">
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,cs,go,dart,js,typescript,sql,html,css" alt="Lenguajes de programación">
   </p>
 </details>
 
@@ -47,7 +51,12 @@
   <summary><strong>🧰 Frameworks y Librerías</strong></summary>
   <br>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=react,angular,flutter,django,laravel,tensorflow,pytorch,nodejs,bootstrap,tailwind" alt="Frameworks y Librerías">
+    <strong>Web & Mobile</strong><br>
+    <img src="https://skillicons.dev/icons?i=react,flutter,django,fastapi,spring,dotnet,nodejs,svelte,bootstrap,tailwind" alt="Frameworks Web y Mobile">
+  </p>
+  <p align="left">
+    <strong>IA & Data Science</strong><br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,scikitlearn,pandas,numpy,opencv,jupyter" alt="IA y Data Science">
   </p>
 </details>
 
@@ -55,7 +64,12 @@
   <summary><strong>🛠️ Herramientas y Plataformas</strong></summary>
   <br>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,mysql,mongodb,firebase,vscode,visualstudio" alt="Herramientas y Plataformas">
+    <strong>Cloud & Bases de Datos</strong><br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,mysql,postgresql,mongodb,redis" alt="Cloud y Bases de Datos">
+  </p>
+  <p align="left">
+    <strong>DevOps & Herramientas</strong><br>
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,vscode,visualstudio,postman,figma" alt="Herramientas y Plataformas">
   </p>
 </details>
 
