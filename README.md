@@ -1,6 +1,6 @@
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEpn1Wm0HBuSA/profile-displaybackgroundimage-shrink_350_1400/B56ZUp58oeGsAY-/0/1740164814331?e=1756339200&v=beta&t=68VBXarE0xlMXu64_Fk_0sfRlZcixI1nli3-5O5NCb4" 
-       alt="LinkedIn Banner" 
+  <img src="assets/banner.jpg" 
+       alt="Banner Personal" 
        style="width: 100%; height: auto;">
 </p>
 
@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Anton&color=ffffff&size=27&center=true&vCenter=true&width=600&height=100&lines=Desarrollo+de+software+y+sistemas+inteligentes" 
        alt="Desarrollo de software y sistemas inteligentes">
 </h1>
-
----
 
 ### 👨‍💻 Sobre mí
 
@@ -35,39 +33,44 @@
   </a>
 </div>
 
+### 💻 Mi Stack Tecnológico
+
+<details>
+  <summary><strong>👨‍💻 Lenguajes de Programación</strong></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,cs,go,dart,js,php,html,css" alt="Lenguajes de programación">
+  </p>
+</details>
+
+<details>
+  <summary><strong>🧰 Frameworks y Librerías</strong></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=react,angular,flutter,django,laravel,tensorflow,pytorch,nodejs,bootstrap,tailwind" alt="Frameworks y Librerías">
+  </p>
+</details>
+
+<details>
+  <summary><strong>🛠️ Herramientas y Plataformas</strong></summary>
+  <br>
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,mysql,mongodb,firebase,vscode,visualstudio" alt="Herramientas y Plataformas">
+  </p>
+</details>
+
 ---
 
-### 🛠️ Tecnologías
+### 📊 Mis Estadísticas en GitHub
 
-#### Lenguajes
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,cs,go,dart,js,php,html,css" alt="Lenguajes de programación">
-</div>
-
-#### Frameworks & Bibliotecas
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,angular,flutter,django,laravel,tensorflow,pytorch,nodejs,bootstrap,tailwind" alt="Frameworks">
-</div>
-
-#### Herramientas & Plataformas
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,mysql,mongodb,firebase,vscode,visualstudio" alt="Herramientas">
-</div>
-
----
-
-### 📈 Estadísticas GitHub
-
-<div align="center" style="display: flex; flex-wrap: nowrap; gap: 0.5rem; justify-content: center; align-items: center;">
+<p align="center">
   <a href="https://github.com/EFRAN033">
-    <img height="100" src="https://github-readme-stats.vercel.app/api?username=EFRAN033&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues&line_height=24" alt="GitHub Stats"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EFRAN033&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&line_height=24" alt="Estadísticas de GitHub"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFRAN033&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Lenguajes más usados"/>
   </a>
-
+</p>
+<p align="center">
   <a href="https://github.com/EFRAN033">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFRAN033&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Langs"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=EFRAN033&theme=dracula&hide_border=true" alt="Racha de Contribuciones"/>
   </a>
-
-  <a href="https://github.com/EFRAN033">
-    <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=EFRAN033&theme=dark&hide_border=true" alt="Streak Stats"/>
-  </a>
-</div>
+</p>
