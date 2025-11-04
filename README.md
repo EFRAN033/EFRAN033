@@ -32,9 +32,11 @@
 <td width="50%">
   <h3 align="left">👨‍💻 Perfil Técnico</h3>
   
-  <p align="left">
-    🚀 Desarrollador de <strong>IA/ML</strong> enfocado en construir <strong>APIs de alto rendimiento</strong> y arquitecturas backend robustas.<br><br>
-    🎯 Fuerte adherencia a principios <strong>SOLID</strong>, <strong>Clean Code</strong> y patrones de diseño.<br><br>
+  <p align="left" style="line-height: 1.5; letter-spacing: 0.5px;">
+    🚀 Desarrollador de <strong>IA/ML</strong> enfocado en construir <strong>APIs de alto rendimiento</strong> y arquitecturas backend robustas.
+    <br><br><br>
+    🎯 Fuerte adherencia a principios <strong>SOLID</strong>, <strong>Clean Code</strong> y patrones de diseño.
+    <br><br><br>
     🌱 Explorando activamente: <strong>LLMs (RAG)</strong>, <strong>sistemas multi-agente</strong> y optimización de inferencia.
   </p>
   </td>
