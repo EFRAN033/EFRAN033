@@ -27,67 +27,60 @@
 <br>
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
-<tr>
+<tr valign="top">
 
-<td width="60%" valign="top">
-
+<td width="50%">
   <h3 align="left">👨‍💻 Perfil Técnico</h3>
   <p align="left">
     🚀 Desarrollador de <strong>IA/ML</strong> enfocado en construir <strong>APIs de alto rendimiento</strong> y arquitecturas backend robustas.<br>
     🎯 Fuerte adherencia a principios <strong>SOLID</strong>, <strong>Clean Code</strong> y patrones de diseño.<br>
     🌱 Explorando activamente: <strong>LLMs (RAG)</strong>, <strong>sistemas multi-agente</strong> y optimización de inferencia.
   </p>
-  <br><br>
-
-  <h3 align="left">📊 Estadísticas de GitHub</h3>
-  <p align="center">
-    <a href="https://github.com/EFRAN033">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EFRAN033&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub"/>
-    </a>
-    <br><br>
-    <a href="https://github.com/EFRAN033">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFRAN033&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Lenguajes más usados"/>
-    </a>
-    <br><br>
-    <a href="https://github.com/EFRAN033">
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=EFRAN033&theme=dracula&hide_border=true" alt="Racha de Contribuciones"/>
-    </a>
-  </p>
-
 </td>
 
-<td width="40%" valign="top">
-
+<td width="50%">
   <h3 align="left">💻 Stack Tecnológico</h3>
   
   <p align="left">
-    <strong>Lenguajes de Programación</strong><br>
+    <strong>Lenguajes</strong><br>
     <img src="https://skillicons.dev/icons?i=python,java,kotlin,cpp,cs,go,dart,js,typescript,html,css" alt="Lenguajes">
   </p>
   
   <p align="left">
-    <strong>Inteligencia Artificial & Data Science</strong><br>
+    <strong>IA & Data Science</strong><br>
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv" alt="IA y Data Science">
   </p>
 
   <p align="left">
-    <strong>Frameworks (Web & Mobile)</strong><br>
+    <strong>Frameworks</strong><br>
     <img src="https://skillicons.dev/icons?i=react,flutter,django,fastapi,spring,dotnet,nodejs,svelte,bootstrap,tailwind" alt="Frameworks">
   </p>
 
   <p align="left">
-    <strong>Cloud, DevOps & Bases de Datos</strong><br>
-    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,kubernetes" alt="Cloud/DevOps">
-    <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" alt="Bases de Datos">
+    <strong>Cloud, DevOps & DBs</strong><br>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,kubernetes,mysql,postgresql,mongodb,redis" alt="Cloud/DevOps/DBs">
   </p>
 
   <p align="left">
     <strong>Herramientas</strong><br>
     <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,postman,figma" alt="Herramientas">
   </p>
-  
 </td>
 
 </tr>
 </table>
+---
+
+<h2 align="center">📊 Mis Estadísticas en GitHub</h2>
+
+<p align="center">
+  <a href="https://github.com/EFRAN033">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EFRAN033&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&line_height=24" alt="Estadísticas de GitHub"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EFRAN033&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Lenguajes más usados"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/EFRAN033">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=EFRAN033&theme=dracula&hide_border=true" alt="Racha de Contribuciones"/>
+  </a>
+</p>
