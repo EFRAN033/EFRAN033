@@ -1,5 +1,5 @@
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="assets/banner.jpg" 
+  <img src="banner.jpg" 
        alt="Banner Personal" 
        style="width: 100%; height: auto;">
 </p>
