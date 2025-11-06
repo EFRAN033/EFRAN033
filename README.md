@@ -72,7 +72,7 @@
 
 </tr>
 </table>
----
+
 
 <h2 align="center">📊 Mis Estadísticas en GitHub</h2>
 
